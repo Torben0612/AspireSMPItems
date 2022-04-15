@@ -1,0 +1,6 @@
+name: AspireItems
+version: 0.1-BETA
+main: tk.aspiresmp.items.Main
+api-version: 1.16
+commands:
+  give-test-fish:
